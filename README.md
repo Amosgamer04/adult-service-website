@@ -1,42 +1,35 @@
-Pay4Booking
+# 💋 Pay4Booking
 
-Discreet. Secure. Reliable.
-Book premium adult services with complete privacy and convenience.
+**Pay4Booking** is a modern **adult service booking platform** that allows clients to explore, book, and pay for exclusive adult experiences online.  
+The platform is designed with **discretion, privacy, and security** as top priorities.  
 
-🌐 Live Website: pay4booking.byethost10.com
+🔗 **Live Demo:** [pay4booking.byethost10.com](https://pay4booking.byethost10.com/)
 
-📖 About
+---
 
-Pay4Booking is an adult service booking platform designed to provide a safe, private, and professional space for clients and service providers.
+## ✨ Features
 
-Our focus is on:
+- 🔐 **Secure Authentication** – Protects user data and accounts.  
+- 💳 **Payment Integration** – Simplified and discreet payment process.  
+- 📅 **Booking System** – Schedule services with ease.  
+- 📍 **Location-Based Listings** – Find services available near you.  
+- 🕵️ **User Privacy First** – Encrypted communication & confidential data handling.  
+- 📱 **Mobile-Friendly Design** – Works seamlessly on any device.  
 
-🔒 Discretion – Full respect for client privacy.
+---
 
-💳 Secure Bookings – Safe payment and booking management.
+## 🛠️ Tech Stack
 
-🛎️ Professional Services – Verified listings with clear availability.
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Hosting:** Byethost Free Hosting  
 
-📱 User-Friendly Design – Smooth experience across devices.
+---
 
-✨ Features
+## 🚀 Getting Started
 
-🔐 Private Login System for clients & providers
-
-📅 Real-time booking management
-
-💬 Secure communication between clients and providers
-
-🌍 Responsive website – works on desktop & mobile
-
-📊 Admin panel for managing users, services, and payments
-
-🛠️ Tech Stack
-
-Frontend: HTML, CSS, JavaScript
-
-Backend: PHP
-
-Database: MySQL
-
-Hosting: ByetHost
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Amosgamer04/pay4booking.git
+cd pay4booking
